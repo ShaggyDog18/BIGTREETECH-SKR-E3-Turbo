@@ -15,4 +15,5 @@ by **ShaggyDog18@gmail.com**, NOV-DEC 2020
 - [Optical end-stop](http://got.by/3czias) X- and Y-switches
 
 ## Change Log:
-- under construction
+- performed initial Marlin Configuration for the above Ender-4 hardware config
+- to be continued
