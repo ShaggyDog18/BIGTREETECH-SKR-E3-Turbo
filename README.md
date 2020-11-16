@@ -12,6 +12,7 @@ by **ShaggyDog18@gmail.com**, NOV-DEC 2020
   - [Regular Transistors](https://easyeda.com/Sergiy/lrgd-power-controller-3d-pinter_copy)
   - [SMD Transistors](https://easyeda.com/Sergiy/lrgd-power-controller-3d-pinter_copy_copy_copy) 
 - WiFi module with [ESP3D v2.1.1](https://github.com/luc-github/ESP3D)
+- [Optical end-stop](http://got.by/3czias) X- and Y-switches
 
 ## Change Log:
 - under construction
