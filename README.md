@@ -4,8 +4,8 @@ by **ShaggyDog18@gmail.com**, NOV-DEC 2020
 BTT SKR E3 Turbo board deployment to **Creality Ender4 (modified)**
 
 ## Creality Ender 4 Configuration:
-- [BTT TFT35 v3.0](https://github.com/bigtreetech/BIGTREETECH-TFT35-V3.0) display
-- BMG Dual Drive Extruder (cone)
+- [BTT TFT35 v3.0](https://github.com/bigtreetech/BIGTREETECH-TFT35-V3.0) display, [purchase link](http://got.by/3x2p80)
+- [BMG Dual Drive Extruder](http://got.by/45s1vg) (cone)
 - BLTouch (original)
 - Filament Sensor (based on a micro-switch)
 - Power Management Module (on/off and power outage detection module). Self-designed and based on: 
