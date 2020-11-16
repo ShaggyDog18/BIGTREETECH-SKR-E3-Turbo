@@ -3,7 +3,7 @@ by **ShaggyDog18@gmail.com**, NOV-DEC 2020
 
 BTT SKR E3 Turbo board deployment to **Creality Ender4 (modified)**
 
-##Creality Ender 4 configuration:
+## Creality Ender 4 configuration:
 - BTT TFT3.5 v3.0 display
 - BMG Dual Drive Extruder (cone)
 - BLTouch (original)
