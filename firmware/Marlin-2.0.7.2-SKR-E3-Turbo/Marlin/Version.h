@@ -28,7 +28,7 @@
 /**
  * Marlin release version identifier
  */
-//#define SHORT_BUILD_VERSION "2.0.7.2"
+#define SHORT_BUILD_VERSION "ShaggyDog 2.0.7.2"
 
 /**
  * Verbose version identifier which should contain a reference to the location
@@ -46,7 +46,7 @@
 /**
  * Defines a generic printer name to be output to the LCD after booting Marlin.
  */
-//#define MACHINE_NAME "3D Printer"
+#define MACHINE_NAME "Creality Ender-4"
 
 /**
  * The SOURCE_CODE_URL is the location where users will find the Marlin Source
