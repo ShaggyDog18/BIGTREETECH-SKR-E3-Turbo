@@ -1,7 +1,7 @@
 # BIGTREETECH-SKR-E3-Turbo
 by **ShaggyDog18@gmail.com**, NOV-DEC 2020
 
-[BTT SKR E3 Turbo](https://github.com/bigtreetech/BIGTREETECH-SKR-E3-Turbo) board deployment to **Creality Ender4 (modified)**
+[BTT SKR E3 Turbo](https://github.com/bigtreetech/BIGTREETECH-SKR-E3-Turbo) board deployment to [Creality Ender4 (modified)](https://www.thingiverse.com/thing:3428435)
 
 ## Creality Ender 4 Configuration:
 - [BTT TFT35 v3.0](https://github.com/bigtreetech/BIGTREETECH-TFT35-V3.0) display, [purchase link](http://got.by/3x2p80)
