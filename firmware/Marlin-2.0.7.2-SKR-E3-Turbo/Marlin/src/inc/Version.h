@@ -89,7 +89,7 @@
  * Default generic printer UUID.
  */
 #ifndef DEFAULT_MACHINE_UUID
-  #define DEFAULT_MACHINE_UUID "cede2a2f-41a2-4748-9b12-c55c62f367ff"
+  #define DEFAULT_MACHINE_UUID "d5837a4c-73e9-4ee9-9d98-41ac09c3662"
 #endif
 
   /**
